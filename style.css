@@ -1,8 +1,10 @@
 @charset "UTF-8";
 
 h1 {
+    text-align: center;
+    background-color: #000044;
     font-family: Arial, Helvetica, sans-serif ;
-    color: #3F71F4;
+    color: #acc4ff;
 }
 h2 {
     font-family: Arial, Helvetica, sans-serif;
